@@ -1,0 +1,25 @@
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.title{
+  font-weight: bold;
+}
+
+.to-do-list{
+  width: 300px;
+}
+
+.list-group{
+  margin: 10px 0 20px 0;
+  padding: 0;
+ 
+
+}
+
+.list-group-item{
+  cursor: pointer;
+}
